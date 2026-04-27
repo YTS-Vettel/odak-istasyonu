@@ -1,0 +1,14 @@
+# Spotify Gizli Oturum Verileri (KESİNLİKLE GİTHUB'A GİTMEMELİ)
+.cache
+
+# Kullanıcı Ayar Hafızası
+focus_settings.json
+
+# Python Gereksiz Sistem Dosyaları
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
